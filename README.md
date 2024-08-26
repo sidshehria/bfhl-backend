@@ -11,4 +11,6 @@ POST method endpoint takes in the request (JSON) and returns the following:
 6. Array for alphabets
 7. Array with the highest lowercase alphabet (refer to logic explanation below)
 GET method endpoint doesn’t take any user input, it just returns an operation_code
-- Please refer to Annexure (A) for request/response samples
+
+
+Live Link - https://21bce2313.vercel.app/bfhl
